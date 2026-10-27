@@ -45,9 +45,3 @@
 - HTML, CSS, JavaScript
 - [Three.js](https://threejs.org/) (r128) — 3D‑сцена галактики и хромированная звезда в шапке
 - Шрифты Unbounded, Manrope и JetBrains Mono из Google Fonts
-
-## Запуск
-
-Откройте `index.html` в браузере. Устанавливать ничего не нужно, но нужен интернет: 3D‑библиотека и шрифты загружаются из сети.
-
-Чтобы опубликовать сайт через GitHub Pages, откройте в репозитории **Settings → Pages**, выберите ветку `main` и папку `/ (root)`.
